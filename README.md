@@ -5,7 +5,7 @@ get-data004-project
 This repository contains files for the Project assessment for Getting and Cleaning data coursera course.
 The idea was to process data collected from the accelerometers from the Samsung Galaxy S smartphone, and produce a nice tidy data set for the purpose of learning how to clean data. The data were obtained from this source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The following files are present:
+The following files are present in this repo:
 
 * run_analysis.R - A script that when run will process all the samsung data (provided they are unzipped in the local working directory), both train set and test set, merge them together, and produce a tidy data set with the average of each variable for each activity and each subject. It will also write it to a file in the working directory.
 
