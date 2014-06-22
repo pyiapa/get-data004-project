@@ -22,11 +22,13 @@ CodeBook for the tidy data set.
  These signals were used to estimate variables of the feature vector for each pattern:  
 
  '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+ 
  'AVG' was introduced later to the variables to denone that it is the average for the particular feature.
 
 * AVG-tBodyAcc-mean()-X
 * AVG-tBodyAcc-mean()-Y
 * AVG-tBodyAcc-mean()-Z
+
 * AVG-tBodyAcc-std()-X
 * AVG-tBodyAcc-std()-Y
 * AVG-tBodyAcc-std()-Z
