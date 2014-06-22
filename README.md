@@ -1,4 +1,4 @@
-get-data004-project
+Getting and Cleaning Data Course Project
 ===================
 
 
