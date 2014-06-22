@@ -1,12 +1,10 @@
 CodeBook for the tidy data set.
 -------------------------------
 * SubjectID
-
   * Identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 * Activity
   * Activities that a subject had performed. The possible values are:
-
   * WALKING
   * WALKING_UPSTAIRS
   * WALKING_DOWNSTAIRS
