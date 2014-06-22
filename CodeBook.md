@@ -79,60 +79,55 @@ These signals were used to estimate variables of the feature vector for each pat
 * AVG-tBodyAccJerkMag-std()
 
 
-*AVG-tBodyGyroMag-mean()
-*AVG-tBodyGyroMag-std()
+* AVG-tBodyGyroMag-mean()
+* AVG-tBodyGyroMag-std()
 
-*AVG-tBodyGyroJerkMag-mean()
-*AVG-tBodyGyroJerkMag-std()
+* AVG-tBodyGyroJerkMag-mean()
+* AVG-tBodyGyroJerkMag-std()
 
-*AVG-fBodyAcc-mean()-X
-*AVG-fBodyAcc-mean()-Y
-*AVG-fBodyAcc-mean()-Z
+* AVG-fBodyAcc-mean()-X
+* AVG-fBodyAcc-mean()-Y
+* AVG-fBodyAcc-mean()-Z
 
-*AVG-fBodyAcc-std()-X
-*AVG-fBodyAcc-std()-Y
-*AVG-fBodyAcc-std()-Z
+* AVG-fBodyAcc-std()-X
+* AVG-fBodyAcc-std()-Y
+* AVG-fBodyAcc-std()-Z
 
+* AVG-fBodyAccJerk-mean()-X
+* AVG-fBodyAccJerk-mean()-Y
+* AVG-fBodyAccJerk-mean()-Z
 
-*AVG-fBodyAccJerk-mean()-X
-*AVG-fBodyAccJerk-mean()-Y
-*AVG-fBodyAccJerk-mean()-Z
+* AVG-fBodyAccJerk-std()-X
+* AVG-fBodyAccJerk-std()-Y
+* AVG-fBodyAccJerk-std()-Z
 
-*AVG-fBodyAccJerk-std()-X
-*AVG-fBodyAccJerk-std()-Y
-*AVG-fBodyAccJerk-std()-Z
+* AVG-fBodyGyro-mean()-X
+* AVG-fBodyGyro-mean()-Y
+* AVG-fBodyGyro-mean()-Z
 
+* AVG-fBodyGyro-std()-X
+* AVG-fBodyGyro-std()-Y
+* AVG-fBodyGyro-std()-Z
 
+* AVG-fBodyAccMag-mean()
+* AVG-fBodyAccMag-std()
 
+* AVG-fBodyAccJerkMag-mean()
+* AVG-fBodyAccJerkMag-std()
 
-*AVG-fBodyGyro-mean()-X
-*AVG-fBodyGyro-mean()-Y
-*AVG-fBodyGyro-mean()-Z
+* AVG-fBodyGyroMag-mean()
+* AVG-fBodyGyroMag-std()
 
-*AVG-fBodyGyro-std()-X
-*AVG-fBodyGyro-std()-Y
-*AVG-fBodyGyro-std()-Z
+* AVG-fBodyGyroJerkMag-mean()
+* AVG-fBodyGyroJerkMag-std()
 
+* AVG-gravityMean
 
-*AVG-fBodyAccMag-mean()
-*AVG-fBodyAccMag-std()
+* AVG-tBodyAccMean
 
-*AVG-fBodyAccJerkMag-mean()
-*AVG-fBodyAccJerkMag-std()
+* AVG-tBodyAccJerkMean
 
-*AVG-fBodyGyroMag-mean()
-*AVG-fBodyGyroMag-std()
+* AVG-tBodyGyroMean
 
-*AVG-fBodyGyroJerkMag-mean()
-*AVG-fBodyGyroJerkMag-std()
-
-*AVG-gravityMean
-
-*AVG-tBodyAccMean
-
-*AVG-tBodyAccJerkMean
-
-*AVG-tBodyGyroMean
-
-AVG-tBodyGyroJerkMean
+* AVG-tBodyGyroJerkMean
 
